@@ -4,3 +4,5 @@ Zenn（@lonebula）の記事リポジトリ。GitHub連携で公開していま�
 
 - 記事は `articles/` に Markdown で置きます（zenn-cli 形式）
 - push すると Zenn に自動で反映されます
+
+連携開始： 2026-11-20
