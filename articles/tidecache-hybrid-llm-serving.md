@@ -135,3 +135,4 @@ LLMの進化というと、モデルの規模や学習方法の話に目が向�
 
 - 論文: [TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](https://arxiv.org/abs/2611.26619)（arXiv:2611.26619、2026年11月19日公開）
 - 論文のHTML版: https://arxiv.org/html/2611.26619v1
+

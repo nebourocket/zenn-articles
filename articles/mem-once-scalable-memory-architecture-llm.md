@@ -134,3 +134,4 @@ MemOnceはクエリのエンコードに1回のフォワードパス（約60ミ�
 
 - 論文: [MemOnce: A Scalable Memory Architecture for Large Language Models](https://arxiv.org/abs/2611.27973)（arXiv:2611.27973、2026年11月20日公開）
 - プロジェクトページ: https://clare-nie.github.io/MemOnce
+
